@@ -13,4 +13,4 @@ En el repositorio creado anteriormente en el punto 2, he abierto el archivo del 
 
 El cual, una vez copiado, lo he abierto en una nueva pestaña, dándome como resultado la visualización de la página web del ejemplo HTML.
 ### 4. EDICIÓN DE README.md EXPLICANDO TAREA LLSGI-01
-Este punto es el presente desarrollo, el cual he editado *README.md* para dar mediante **MARKDOWN** una estructura al documento en el que se observa **TÍTULOS** y **LISTAS** de texto, **LINK** de la URL de *RAWGIT*, formatos de *CURSIVAS*, **NEGRITA**, entre otros, lo que demuestra conocimientos fundamentales del susodicho * **`MARKDOWN`** *.
+Este punto es el presente desarrollo, el cual he editado *README.md* para dar mediante **MARKDOWN** una estructura al documento en el que se observa **TÍTULOS** y **LISTAS** de texto, **LINK** de la URL de *RAWGIT*, formatos de *CURSIVAS*, **NEGRITA**, entre otros, lo que demuestra conocimientos fundamentales del susodicho **`MARKDOWN`**.
