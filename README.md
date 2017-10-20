@@ -1,4 +1,4 @@
- :computer: ## TAREA LLSGI-01. INTRODUCIÓN A LOS LENGUAJES DE MARCAS  :computer:
+## TAREA LLSGI-01. INTRODUCIÓN A LOS LENGUAJES DE MARCAS
 ### 1. CREACIÓN DE DOCUMENTOS
 Mediante *Notepad++* he creado ejemplos de documentos **RTF**, **XML** y **HTML**. Seguidamente, he probado cada uno de ellos con el programa correspondiente para ver cuál es el resultado que aparece.
 >* **RTF**: Abierto con *MSWord*. Se observa un texto en un formato determinado (tipo fuente, tamaño letra, estilo fuente, etc.)
