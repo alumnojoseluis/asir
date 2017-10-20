@@ -1,11 +1,10 @@
 ## TAREA LLSGI-01. INTRODUCIÓN A LOS LENGUAJES DE MARCAS
 ### 1. CREACIÓN DE DOCUMENTOS
 Mediante *Notepad++* he creado ejemplos de documentos **RTF**, **XML** y **HTML**. Seguidamente he probado cada uno de ellos con el programa correspondiente para ver cuál es el resultado que aparece.
->* RTF: Abierto con MSWord. Se observa un texto en un formato determinado (tipo fuente, tamaño letra, estilo fuente, etc.)
->* XML: Abierto con MozillaFirefox. Se observa una estructura de documento en forma de árbol, con datos almacenado en forma legible.
->* HTML: Abierto con GoogleChrome. Se observa el resultado de un documento conteniendo texto con un determinado formato y adaptado para la llamada WWW.
-
-2. RELLENAR REPOSITORIO GITHUB
+>* **RTF**: Abierto con *MSWord*. Se observa un texto en un formato determinado (tipo fuente, tamaño letra, estilo fuente, etc.)
+>* **XML**: Abierto con *MozillaFirefox*. Se observa una estructura de documento en forma de árbol, con datos almacenado en forma legible.
+>* **HTML**: Abierto con *GoogleChrome*. Se observa el resultado de un documento conteniendo texto con un determinado formato y adaptado para la llamada *WWW*.
+### 2. RELLENAR REPOSITORIO GITHUB
 A través de la URL: https://github.com me he registrado, dando así de alta una cuenta para poder crear un repositorio, en el cual he subido los tres documentos (archivos de texto plano con leguaje de marca) creados anteriormente en el punto 1.
 
 3. RAWGIT PARA VISUALIZAR HTML DE GITHUB
